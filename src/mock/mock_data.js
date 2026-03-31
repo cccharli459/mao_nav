@@ -375,7 +375,7 @@ export const mockData = {
     {
       "id": "tools",
       "name": "在线工具",
-      "icon": "⚙️",
+      "icon": "🎵",
       "order": 7,
       "sites": [
         {
@@ -405,6 +405,13 @@ export const mockData = {
           "url": "https://tinypng.com",
           "description": "图片压缩工具",
           "icon": "/sitelogo/tinypng.com.ico"
+        },
+        {
+          "id": "site-1774963060946",
+          "name": "鹏-tts",
+          "url": "https://tts.dpg.qzz.io",
+          "description": "tts文本转语音",
+          "icon": "https://www.faviconextractor.com/favicon/tts.dpg.qzz.io"
         }
       ]
     },
@@ -482,5 +489,5 @@ export const mockData = {
     }
   ],
   "title": "鹏的导航🐱",
-  "_fileSha": "02225e4128e03d78127ffad7310fa0568d326d5e"
+  "search": "bing"
 }
