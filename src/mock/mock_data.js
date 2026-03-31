@@ -40,6 +40,20 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
+        },
+        {
+          "id": "site-1774963484090",
+          "name": "huggingface",
+          "url": "https://huggingface.co",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/huggingface.co"
+        },
+        {
+          "id": "site-1774963507561",
+          "name": "X",
+          "url": "https://x.com/home",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/x.com"
         }
       ]
     },
@@ -411,6 +425,13 @@ export const mockData = {
           "name": "鹏-tts",
           "url": "https://tts.dpg.qzz.io",
           "description": "tts文本转语音",
+          "icon": "https://www.faviconextractor.com/favicon/tts.dpg.qzz.io"
+        },
+        {
+          "id": "site-1774963537279",
+          "name": "鹏-TTS",
+          "url": "https://tts.dpg.qzz.io",
+          "description": "",
           "icon": "https://www.faviconextractor.com/favicon/tts.dpg.qzz.io"
         }
       ]
