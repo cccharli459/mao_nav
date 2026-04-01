@@ -54,6 +54,20 @@ export const mockData = {
           "url": "https://x.com/home",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/x.com"
+        },
+        {
+          "id": "site-1775026397642",
+          "name": "peng-blog",
+          "url": "https://blog.dpg.qzz.io/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/blog.dpg.qzz.io"
+        },
+        {
+          "id": "site-1775029746229",
+          "name": "PDF",
+          "url": "https://pdf.dpg.qzz.io/zh/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/pdf.dpg.qzz.io"
         }
       ]
     },
