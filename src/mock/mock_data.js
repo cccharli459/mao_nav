@@ -68,6 +68,13 @@ export const mockData = {
           "url": "https://pdf.dpg.qzz.io/zh/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/pdf.dpg.qzz.io"
+        },
+        {
+          "id": "site-1775033027375",
+          "name": "临时邮箱",
+          "url": "https://email2.wpp.cc.cd/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/email2.wpp.cc.cd"
         }
       ]
     },
@@ -439,13 +446,6 @@ export const mockData = {
           "name": "鹏-tts",
           "url": "https://tts.dpg.qzz.io",
           "description": "tts文本转语音",
-          "icon": "https://www.faviconextractor.com/favicon/tts.dpg.qzz.io"
-        },
-        {
-          "id": "site-1774963537279",
-          "name": "鹏-TTS",
-          "url": "https://tts.dpg.qzz.io",
-          "description": "",
           "icon": "https://www.faviconextractor.com/favicon/tts.dpg.qzz.io"
         }
       ]
